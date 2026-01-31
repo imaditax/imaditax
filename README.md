@@ -4,7 +4,7 @@ I’m a first-year medical student and an aspiring developer. I’ve recently st
 
 ## 💻 What I’m Working On
 
-Beginner projects from CS50 and Sme personal mini-games
+Beginner projects from CS50 and Some personal mini-games
 
 Small games and interactive projects in Scratch
 
