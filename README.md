@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I’m Imad
+🌱 About Me
 
-<!--
-**imaditax/imaditax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a first-year medical student and an aspiring developer. I’ve recently started my coding journey with CS50 and small projects in Scratch. I’m passionate about learning programming step by step and building simple, fun projects along the way.
 
-Here are some ideas to get you started:
+## 💻 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beginner projects from CS50
+
+Small games and interactive projects in Scratch
+
+Exploring Python, HTML/CSS, and other coding fundamentals
+
+Eventually, I want to build more advanced web and software projects
+
+## 🛠 Tools & Technologies
+
+Languages: Python, HTML, CSS, Scratch
+
+Platforms: GitHub, VS Code, Scratch
+
+Learning: CS50 course, FreeCodeCamp tutorials, personal projects
+
+## 📫 How to Reach Me
+
+Email: imaditax2@gmail.com
+
+GitHub: https://github.com/imaditax
+
+## ⚡ Fun Fact
+
+Even though I’m new to coding, I love creating mini-projects, experimenting, and learning by doing. Every project is a step forward!
