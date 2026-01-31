@@ -4,7 +4,7 @@ I’m a first-year medical student and an aspiring developer. I’ve recently st
 
 ## 💻 What I’m Working On
 
-Beginner projects from CS50
+Beginner projects from CS50 and Sme personal mini-games
 
 Small games and interactive projects in Scratch
 
@@ -18,7 +18,7 @@ Languages: Python, HTML, CSS, Scratch
 
 Platforms: GitHub, VS Code, Scratch
 
-Learning: CS50 course, FreeCodeCamp tutorials, personal projects
+Learning: CS50 course, FreeCodeCamp tutorials, Programming content and personal projects
 
 ## 📫 How to Reach Me
 
@@ -26,6 +26,8 @@ Email: imaditax2@gmail.com
 
 GitHub: https://github.com/imaditax
 
+Or Even my Instagram : https://www.instagram.com/imad._.itax/
+
 ## ⚡ Fun Fact
 
-Even though I’m new to coding, I love creating mini-projects, experimenting, and learning by doing. Every project is a step forward!
+Even though I’m new to coding, I love creating mini-projects, experimenting, and learning by doing. Every project is a step forward.
