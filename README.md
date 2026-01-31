@@ -20,6 +20,8 @@ Platforms: GitHub, VS Code, Scratch
 
 Learning: CS50 course, FreeCodeCamp tutorials, Programming content and personal projects
 
+languages : English, Arabic, French
+
 ## 📫 How to Reach Me
 
 Email: imaditax2@gmail.com
