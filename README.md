@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Imad
 
-I’m a first-year medical student and an aspiring developer. I’ve recently started my coding journey with CS50 and small projects in Scratch. I’m passionate about learning programming step by step and building simple, fun projects along the way.
+I’m a first-year medical student and an aspiring developer. I’ve recently started my coding journey with CS50 and small projects in Scratch. I’m passionate about learning programming step by step and building simple, fun projects along the way while enjoying the moment.
 
 ## 💻 What I’m Working On
 
